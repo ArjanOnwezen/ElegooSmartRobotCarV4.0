@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "ConquerorCar.ino",
+    "port": "COM13",
+    "programmer": "AVRISP mkII"
+}
